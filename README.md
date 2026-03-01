@@ -1,7 +1,7 @@
 # Exploring Euler’s Sum of Powers Through Exact Computation  
 ### Modular Arithmetic, Sumsets, and Search Design
 
-Abstract:
+Abstract: https://drive.google.com/file/d/1_poJwWQcWq1QKoYczQnibSPVc94Suikj/view?usp=sharing
 
 This project is an **exact computational framework** for exploring Euler-type sum-of-powers Diophantine equations motivated by **Euler’s Sum of Powers conjecture**. The code focuses on **mathematical legitimacy**: it avoids floating-point screening, uses exact integer arithmetic for verification, and only restricts the **b-range** when requested.
 
