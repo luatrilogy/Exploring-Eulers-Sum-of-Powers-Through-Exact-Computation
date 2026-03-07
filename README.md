@@ -19,6 +19,7 @@ In addition to boundary-style searches, I use even-split regimes such as `(m = 6
 - [Quickstart (Python-only)](#quickstart-python-only)
 - [Optional C++ backend](#optional-c-backend)
 - [Troubleshooting](#troubleshooting)
+- [References](#references)
 
 ---
 
@@ -99,3 +100,17 @@ python -c "import euler_ext; print('C++ extension loaded')"
 - Build errors on Windows: check compiler toolchain, pybind11 install, and vcpkg include path configuration.
 - Manim render fails: ensure a full Manim installation (including LaTeX/FFmpeg dependencies required by your setup).
 - Slow runs in research mode: use sieve primes, reduce `max_val`, or switch to C++ backend for supported `(m, r)` splits.
+
+## References
+
+### Primary source (Sum of Powers)
+- L. J. Lander & T. R. Parkin (1966). *Counterexample to Euler’s conjecture on sums of like powers* (Bull. Amer. Math. Soc.).  
+  PDF: https://www.ams.org/journals/bull/1966-72-06/S0002-9904-1966-11654-3/S0002-9904-1966-11654-3.pdf
+
+### Related (different “Euler conjecture” — not Sum of Powers)
+- Jun-Hou Fung (2008). *A Cursory Disproof of Euler’s Conjecture Concerning Graeco-Latin Squares by Means of Construction* (Hang Lung Mathematics Awards).  
+  PDF: https://hlma.hanglung.com/assets/3940AA0C-C6C6-4672-ACE4-75B94065313F/010.pdf
+
+### Expository / background
+- Srijon Sarkar (2020). *Euler’s Sum of Powers Conjecture* (expository note).  
+  PDF: https://srijonsarkar.wordpress.com/wp-content/uploads/2020/04/euler_s_sum_of_powers_conjecture_srijon_sarkar.pdf
