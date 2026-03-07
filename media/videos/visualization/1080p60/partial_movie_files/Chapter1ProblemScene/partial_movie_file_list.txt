@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:A:/My Stuff/Projects/Python Stuff/Euler Sum of Powers Conjecture/media/videos/visualization/1080p60/partial_movie_files/Chapter1ProblemScene/2257293077_11875197_223132457.mp4'
+file 'file:A:/My Stuff/Projects/Python Stuff/Euler Sum of Powers Conjecture/media/videos/visualization/1080p60/partial_movie_files/Chapter1ProblemScene/2135761390_2552855209_608359441.mp4'
+file 'file:A:/My Stuff/Projects/Python Stuff/Euler Sum of Powers Conjecture/media/videos/visualization/1080p60/partial_movie_files/Chapter1ProblemScene/2135761390_3286890405_2375220172.mp4'
